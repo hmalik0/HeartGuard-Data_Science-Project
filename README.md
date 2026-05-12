@@ -69,7 +69,13 @@ cd HeartGuard-Data_Science-Project
 python3 -m venv venv
 source venv/bin/activate  # Mac/Linux
 
+python -m venv venv
+.\venv\Scripts\activate # Windows
+
 # Install dependencies
+Note for Windows Users: If you encounter an error installing SHAP or XGBoost,
+you may need the Microsoft C++ Build Tools installed.
+pip install --upgrade pip
 pip install -r requirements.txt
 
 # Run notebooks in order
