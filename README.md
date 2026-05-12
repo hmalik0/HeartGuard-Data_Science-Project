@@ -26,6 +26,7 @@ HeartGuard is a hybrid machine learning pipeline for clinical heart disease risk
 | XGBoost | **0.864** | 0.846 | **0.846** | **0.846** | 0.930 |
 
 ## Project Structure
+```text
 HeartGuard - Intro to DS Project/
 ├── data/
 │   ├── heart_disease_raw.csv       # Original UCI dataset
@@ -56,6 +57,7 @@ HeartGuard - Intro to DS Project/
 ├── report/                         # Final paper (LaTeX)
 ├── requirements.txt                # Python dependencies
 └── README.md
+```
 
 ## Setup & Reproducibility
 ```bash
