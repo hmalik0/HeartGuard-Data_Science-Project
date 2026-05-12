@@ -73,8 +73,8 @@ python -m venv venv
 .\venv\Scripts\activate # Windows
 
 # Install dependencies
-Note for Windows Users: If you encounter an error installing SHAP or XGBoost,
-you may need the Microsoft C++ Build Tools installed.
+# Note for Windows Users: If you encounter an error installing SHAP or XGBoost,
+# you may need the Microsoft C++ Build Tools installed.
 pip install --upgrade pip
 pip install -r requirements.txt
 
