@@ -80,10 +80,10 @@ pip install -r requirements.txt
 
 # Run notebooks in order
 # 1. data_cleaning.ipynb
-# 2. phase1_eda.ipynb
-# 3. phase2_preprocessing.ipynb
-# 4. phase3_modeling.ipynb
-# 5. phase4_evaluation.ipynb
+# 2. eda.ipynb
+# 3. preprocessing.ipynb
+# 4. modeling.ipynb
+# 5. evaluation.ipynb
 ```
 
 ## Key Findings
