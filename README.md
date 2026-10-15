@@ -54,7 +54,6 @@ HeartGuard - Intro to DS Project/
 │   ├── pca_clusters.png                   
 │   ├── roc_curves.png         
 │   ├── shap.png                          
-├── report/                         # Final paper (LaTeX)
 ├── requirements.txt                # Python dependencies
 └── README.md
 ```
